@@ -2,4 +2,5 @@
 
 **Simple network** : 16 layers convolutional neural network. \
 **VGG (with different versions)**: according to https://arxiv.org/pdf/1409.1556.pdf \
-**ResNet (with different versions)**: according to https://arxiv.org/pdf/1512.03385.pdf
+**ResNet (with different versions)**: according to https://arxiv.org/pdf/1512.03385.pdf \
+**DenseNet (with different versions)**: acording to https://arxiv.org/pdf/1608.06993.pdf
